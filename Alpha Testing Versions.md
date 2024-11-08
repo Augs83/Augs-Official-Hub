@@ -1,4 +1,4 @@
-Testing Version Alpha V0.0.0
+Testing Version Alpha V0.0.0 (11/7/2024)
 
 loadstring(game:HttpGet('https://pastebin.com/raw/curiBkWa'))()
 
@@ -10,7 +10,7 @@ Fly Yourself (Shift To Descend And Space To Ascend, YOU HAVE TO RESET AND RE-EXE
 
 Credits (Shows credits who made it, it isnt actually 0.0.1 but its going to be soon.)
 
-Testing Version Alpha 0.0.5
+Testing Version Alpha 0.0.5 (11/7/2024)
 
 loadstring(game:HttpGet('https://pastebin.com/raw/S7BJ8eQe'))()
 
@@ -23,7 +23,7 @@ IMAGE: ![Screenshot 2024-11-08 013538](https://github.com/user-attachments/asset
 - Fixed Credits for version
 - Added a coming soon button
 
-Testing Version Alpha V0.1.0
+Testing Version Alpha V0.1.0 (11/8/2024)
 
 loadstring(game:HttpGet('https://pastebin.com/raw/qpXHiuCk'))()
 
