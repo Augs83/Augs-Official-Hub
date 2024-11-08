@@ -1,4 +1,4 @@
-Testing Version Alpha 0.0.0
+Testing Version Alpha V0.0.0
 
 loadstring(game:HttpGet('https://pastebin.com/raw/curiBkWa'))()
 
@@ -17,8 +17,21 @@ loadstring(game:HttpGet('https://pastebin.com/raw/S7BJ8eQe'))()
 IMAGE: ![Screenshot 2024-11-08 013538](https://github.com/user-attachments/assets/3b29e154-b59c-48ea-82bf-cfaade4824cd)
 
 
-- Changes For 0.0.5
+- Changes For Alpha V0.0.5
 - Spin button (yay u cant stop it u have to reset but if u click it more it makes u spin faster)
 - UI Complete revamp
 - Fixed Credits for version
 - Added a coming soon button
+
+Testing Version Alpha V0.1.0
+
+loadstring(game:HttpGet('https://pastebin.com/raw/qpXHiuCk'))()
+
+IMAGE: ![Screenshot 2024-11-08 101201](https://github.com/user-attachments/assets/580f195e-6a15-4252-8440-33e109bc308f)
+
+- Changes For Alpha V0.1.0
+- Outlines for buttons
+- Can close the OriginalUI and reopen with Z (not recommended for mobile users to close or else u have to re-execute)
+- Updated credits
+- OriginalUI when being closed has slide animation to right when closed and when opened to right.
+- Slightly tweaked ESP
