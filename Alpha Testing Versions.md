@@ -37,4 +37,4 @@ IMAGE: ![Screenshot 2024-11-08 101201](https://github.com/user-attachments/asset
 - Slightly tweaked ESP
 
 
-Sorry for the delay of V0.2.0 But if this keeps pushing for further updates I will likely have to force it to Alpha V0.4.5
+V0.1.5 is never coming until I get help my discord - @breadbox360
