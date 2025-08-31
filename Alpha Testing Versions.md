@@ -37,4 +37,4 @@ IMAGE: ![Screenshot 2024-11-08 101201](https://github.com/user-attachments/asset
 - Slightly tweaked ESP
 
 
-V0.1.5 is never coming until I get help my discord - @breadbox360
+V0.1.5 will be an entirely new version, Making this from scratch since I lost the old version. - @breadbox360
